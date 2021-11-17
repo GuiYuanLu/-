@@ -11,7 +11,7 @@ import jsonp from 'jsonp'
 // 对象序列化工具
 import qs from 'qs'
 
-
+// 112132132
 
 // 02实例化axios
 var request = axios.create({
